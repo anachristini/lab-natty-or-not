@@ -1,49 +1,35 @@
+# Desafio Final 
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+```"Inteligência Artificial Generativa: Aplicando na Prática"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+No mundo em constante evolução da tecnologia, entender e dominar a Inteligência Artificial (IA) é fundamental para se destacar no mercado atual. Com o bootcamp "Inteligência Artificial Generativa: Aplicando na Prática", tive a oportunidade de adquirir conhecimentos sólidos não apenas sobre IA, mas também sobre como aplicá-la nas demandas reais do dia a dia.
+
+Este bootcamp foi projetado para pessoas que desejam expandir suas habilidades em IA e aprender a utilizar os serviços mais utilizados da AWS (Amazon Web Services) nessa área. Ao longo do curso, foi apresentado três ferramentas poderosas: o Amazon Q, o Bedrock e o Claude 3.
+
+Através de uma abordagem prática, fui guiada para aplicar o conhecimento adquirido em projetos reais, permitindo criar soluções de forma mais rápida e eficiente. Além disso, o bootcamp me ofereceu desafios de código e sessões de mentoria com especialistas da DIO (Digital Innovation One), garantindo que estava constantemente aprimorando minhas habilidades.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+o Amazon Q, o Bedrock e o Claude 3
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Atividades:
+Mentorias (Ao Vivo): Momento em que me inspirei nos talentos das empresas mais inovadoras do mundo, podendo interagir ao longo da live e ainda tirar dúvidas sobre carreira e tecnologia.
+
+Desafio de Código: Coloquei em prática todos os conhecimentos adquiridos nas aulas e testei meus conhecimentos na resolução de um desafio.
+
+Desafio do Projeto: Construi um portfólio e desenvolvi projetos práticos com os conhecimentos adquiridos ao longo das aulas.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://github.com/anachristini/Desafio-de-codigo-python.git
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
 ## Links Interessantes
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
